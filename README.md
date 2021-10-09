@@ -1,7 +1,7 @@
 # Boia-Lora
 ### Boia con alimentación solar, para telemetria de temperatura e altuara da ola do lago de As Pontes. Datos enviados por Lora para o seu procesado.
 
-Año 2021 - Proxecto financiado por Xunta de Galicia
+Ano 2021 - Proxecto financiado por Xunta de Galicia
 
 A idea do proxecto é crear unha boia que nos permita coñecer o estado do lago, ben para goce da praia ou ben para os deportes que nel practícanse.
 
