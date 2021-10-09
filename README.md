@@ -16,7 +16,7 @@ Para la construcción completa de Smart Buoy, necesita MUCHAS cosas. Tendremos e
 Para a construción completa da boia, necesita moitas cousas. Temos a desagregación dos materiais específicos requiridos en está a lista completa:
 
 
-### Estado:
+## Estado:
 - [ ] Desarrollo web (Rest API)
 - [ ] Creación PDBs en KiCad para a electrónica
 - [ ] Implementación Lora e envio a TTNv3
