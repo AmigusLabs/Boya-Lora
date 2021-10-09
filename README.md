@@ -9,12 +9,20 @@ O obxectivo era crear un  insturmento económico e efectivo para xerar os datos,
 
 Os sensores a bordo da boia permítenlle medir: altura das ondas, período das ondas, potencia das ondas, temperatura da auga, temperatura do aire, presión do aire, voltaxe, consumo actual e localización GPS.
 
-Para la construcción completa de Smart Buoy, necesita MUCHAS cosas. Tendremos el desglose de los materiales específicos requeridos para cada etapa de la construcción en el tutorial correspondiente, pero aquí está la lista completa:
-
 ## Materiais
 
 Para a construción completa da boia, necesita moitas cousas. Temos a desagregación dos materiais específicos requiridos en está a lista completa:
 
+- Lilygo T-Beam 868mhzs
+- 4 placas solares 90x60mm 6V 100mA
+- INA219
+- GY-86
+- Bateriía 18650
+- PETG para impresión 3d
+- GomaEVA
+- Conectores PG7
+- Regulador MT3608
+- JMX-045 domo 4,5" / 114mm
 
 ## Estado:
 - [ ] Desarrollo web (Rest API)
