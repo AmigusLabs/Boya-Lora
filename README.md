@@ -17,7 +17,8 @@ Para a construción completa da boia, necesita moitas cousas. Temos a desagregac
 - 4 placas solares 90x60mm 6V 100mA
 - INA219
 - GY-86
-- Bateriía 18650
+- Sensor temperatura DS18B20
+- Batería 18650
 - PETG para impresión 3d
 - GomaEVA
 - Conectores PG7
