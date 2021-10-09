@@ -29,9 +29,9 @@ Para a construción completa da boia, necesita moitas cousas. Temos a desagregac
 
 ## Estado:
 - [ ] Desarrollo web (Rest API)
-- [ ] Creación PDBs en KiCad para a electrónica
+- [ ] Creación PCBs en KiCad para a electrónica
 - [ ] Implementación Lora e envio a TTNv3
-- [x] Implementación do software en T-BEAM de temperatua e acelerometro.
+- [x] Implementación do software en T-BEAM de temperatua e sensores.
 - [x] Implementación control enerxético
 - [x] Fabricación 3d
 - [x] Corte laser da Goma Eva
