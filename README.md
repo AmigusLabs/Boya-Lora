@@ -1,18 +1,28 @@
-# Boya-Lora
-### Boya con alimentación solar, para telemetria de temperatura e altuara da ola do lago de As Pontes. Datos enviados por Lora para o seu procesado.
+# Boia-Lora
+### Boia con alimentación solar, para telemetria de temperatura e altuara da ola do lago de As Pontes. Datos enviados por Lora para o seu procesado.
 
 Año 2021 - Proxecto financiado por Xunta de Galicia
 
+A idea do proxecto é crear unha boia que nos permita coñecer o estado do lago, ben para goce da praia ou ben para os deportes que nel practícanse.
+
+O obxectivo era crear un  insturmento económico e efectivo para xerar os datos, e en última instancia, mellorar a  comprensicón deles. Leste foi o principal obxectivo do proxecto, deseño, marca e presentación dos datos.
+
+Os sensores a bordo da boia permítenlle medir: altura das ondas, período das ondas, potencia das ondas, temperatura da auga, temperatura do aire, presión do aire, voltaxe, consumo actual e localización GPS.
+
+Para la construcción completa de Smart Buoy, necesita MUCHAS cosas. Tendremos el desglose de los materiales específicos requeridos para cada etapa de la construcción en el tutorial correspondiente, pero aquí está la lista completa:
+
+## Materiais
+
+Para a construción completa da boia, necesita moitas cousas. Temos a desagregación dos materiais específicos requiridos en está a lista completa:
 
 
 ### Estado:
-
-- Creación PDBs en KiCad para a electrónica
-- Implementación Lora
-
-- Implementación do software en T-BEAM de temperatua e acelerometro.
-- Implementación control enerxético
-- Fabricación 3d
-- Corte laser da Goma Eva
-- Deseño 2d
-- Deseño 3d
+- [ ] Desarrollo web (Rest API)
+- [ ] Creación PDBs en KiCad para a electrónica
+- [ ] Implementación Lora e envio a TTNv3
+- [x] Implementación do software en T-BEAM de temperatua e acelerometro.
+- [x] Implementación control enerxético
+- [x] Fabricación 3d
+- [x] Corte laser da Goma Eva
+- [x] Deseño 2d
+- [x] Deseño 3d
