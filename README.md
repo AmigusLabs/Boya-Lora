@@ -11,7 +11,7 @@ Os sensores a bordo da boia permítenlle medir: altura das ondas, período das o
 
 ## Materiais
 
-Para a construción completa da boia, necesita moitas cousas. Temos a desagregación dos materiais específicos requiridos en está a lista completa:
+Para a construción completa da boia, necesita moitas cousas. Temos a desagregación dos materiais específicos requiridos en está a lista:
 
 - Lilygo T-Beam 868mhzs
 - 4 placas solares 90x60mm 6V 100mA
