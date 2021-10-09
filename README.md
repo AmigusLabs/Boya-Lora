@@ -9,6 +9,8 @@ O obxectivo era crear un  instrumento económico e efectivo para xerar os datos,
 
 Os sensores a bordo da boia permítenlle medir: altura das ondas, período das ondas, potencia das ondas, temperatura da auga, temperatura do aire, presión do aire, voltaxe e consumo actual e localización GPS.
 
+![Boia lora](https://raw.githubusercontent.com/CyberMODE/Boya-Lora/a475e333dc13617cde9e1c0f26b45d9383a39084/images/IMG_3604.jpg)
+
 ## Materiais
 
 Para a construción completa da boia, necesita moitas cousas. Temos a desagregación dos materiais específicos requiridos en está a lista:
