@@ -5,7 +5,7 @@ Ano 2021 - Proxecto financiado por Xunta de Galicia
 
 A idea do proxecto é crear unha boia que nos permita coñecer o estado do lago, ben para goce da praia ou ben para os deportes que nel practícanse.
 
-O obxectivo era crear un  instrumento económico e efectivo para xerar os datos, e en última instancia, mellorar a comprensicón deles. Este é o principal obxectivo do proxecto, deseño, marca e presentación dos datos.
+O obxectivo era crear un  instrumento económico e efectivo para xerar os datos, e en última instancia, mellorar a comprensicón deles. Este é o principal obxectivo do proxecto, deseño, rexistro e presentación dos datos.
 
 Os sensores a bordo da boia permítenlle medir: altura das ondas, período das ondas, potencia das ondas, temperatura da auga, temperatura do aire, presión do aire, voltaxe e consumo actual e localización GPS.
 
